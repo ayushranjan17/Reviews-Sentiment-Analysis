@@ -10,7 +10,9 @@ Dataset contains sentences labelled with positive or negative sentiment, extract
 The dataset used for training and evaluation is stored in a file named `sentiment.txt`, where each line contains a review followed by its sentiment, separated by a tab (`\t`). The sentiments are represented as binary labels:
 - `1` for positive sentiment
 - `0` for negative sentiment
-*The sentences come from three different websites/fields:
+  
+The sentences come from three different websites/fields:
+
 *imdb.com
 *amazon.com
 *yelp.com
