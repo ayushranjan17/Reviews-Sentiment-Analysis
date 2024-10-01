@@ -13,11 +13,11 @@ The dataset used for training and evaluation is stored in a file named `sentimen
   
 The sentences come from three different websites/fields:
 
-*imdb.com
-*amazon.com
-*yelp.com
-*For each website, there exist 500 positive and 500 negative sentences. Those were selected randomly for larger datasets of reviews. 
-*We attempted to select sentences that have a clearly positive or negative connotaton, the goal was for no neutral sentences to be selected.
+imdb.com, amazon.com, yelp.com
+
+For each website, there exist 500 positive and 500 negative sentences. Those were selected randomly for larger datasets of reviews. 
+
+We attempted to select sentences that have a clearly positive or negative connotaton, the goal was for no neutral sentences to be selected.
 
 ## Key Features
 - **Data Preprocessing**: Reviews are tokenized, cleaned, and padded to a fixed length.
