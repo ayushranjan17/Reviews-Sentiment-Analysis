@@ -1,6 +1,6 @@
 # Sentiment Analysis with BiLSTM
 
-## Project Overview
+## Overview
 
 This project implements a **Sentiment Analysis** system using a **Bidirectional LSTM (BiLSTM)** model. The goal is to classify reviews into positive or negative sentiments. The model is trained on a dataset of reviews, where each review is labeled with its corresponding sentiment. 
 
